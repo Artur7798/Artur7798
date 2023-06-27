@@ -1,10 +1,10 @@
-Olá, sou o Artur Grochocki 👋
+<h1>Olá, sou o Artur Grochocki 👋</h1>
 
 <a href="https://github.com/Artur7798/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Artur7798" />
 </a>
 <a href="https://github.com/Artur7798/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur7798&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur7798&layout=compact&langs_count=8&card_width=220" />
 </a>
 
 <div style="display: inline_block"><br>
